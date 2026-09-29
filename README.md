@@ -235,4 +235,4 @@ This repository serves as the official landing page for Microsoft Flight. The so
 **Get the most recent version of Microsoft Flight today!**
 
 ---
-**Last updated:** 2026-09-29 11:05:21 UTC
+**Last updated:** 2026-09-29 17:37:50 UTC
